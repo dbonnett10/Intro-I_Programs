@@ -1,5 +1,6 @@
 import java.lang.Math;
 
+// The name of this class is kinetic
 public class Kinetic
 {
     public static String computeVelocity(int kinetic, int mass)
