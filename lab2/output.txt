@@ -1,0 +1,13 @@
+Dan Bonnett
+Lab 2
+Tue Sep 16 18:57:44 EDT 2014
+
+Pitch 1: 92
+Pitch 2: 93
+Pitch 3: 85
+Average Speed: 90
+Feet per Mile: 5280
+Seconds per Hour: 3600
+Final Average Speed: 132 Feet per Second
+
+
