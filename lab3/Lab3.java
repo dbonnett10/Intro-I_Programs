@@ -24,12 +24,12 @@ public class Lab3
 	Scanner scan = new Scanner(System.in);
 	String name1;
 	String welcome; 
-	double bill;
-	double percentage;
-	double tip;
-	double totalBill;
-	int people;
-	double eachPerson;
+	double bill;	        //The amount of the bill in dollars
+	double percentage;	//The percentage of the bill that the user would like to tip in dollars
+	double tip;	        //The amount of the tip in dollars
+	double totalBill;       //The amount of the bill plus the amount of the tip in dollars
+	int people;             //The number of people that will be splitting the bill
+	double eachPerson;      //The amount that each person should pay in dollars
 
 	System.out.println("Enter your name: ");
 	name1 = scan.nextLine();
