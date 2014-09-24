@@ -1,0 +1,66 @@
+bonnettd@aldenv138:~/cs111F2014/cs111F2014-bonnettd/lab3$ java Lab3
+Dan Bonnett
+Lab 3
+Wed Sep 24 11:54:36 EDT 2014
+
+Enter your name: 
+Dan
+Welcome to the Tip Calculator, Dan.
+Please enter the amount of your bill
+125
+Please enter the percentage that you want to tip as a decimal between number between 0 and 1: 
+.20
+Your original bill was: $125
+Your tip amount is: $25.0
+Your total bill is: $150.0
+How many people will be splitting the bill?: 
+3
+Each person should pay: $50.0
+Have a fantastic day! Thank you for using the tip calculator created by Dan the Man. 
+
+
+
+bonnettd@aldenv138:~/cs111F2014/cs111F2014-bonnettd/lab3$ java Lab3
+Dan Bonnett
+Lab 3
+Wed Sep 24 11:57:07 EDT 2014
+
+Enter your name: 
+Judson
+Welcome to the Tip Calculator, Judson.
+Please enter the amount of your bill
+5550
+Please enter the percentage that you want to tip as a decimal between number between 0 and 1: 
+.25
+Your original bill was: $5550
+Your tip amount is: $1387.5
+Your total bill is: $6937.5
+How many people will be splitting the bill?: 
+7
+Each person should pay: $991.0714285714286
+Have a fantastic day! Thank you for using the tip calculator created by Dan the Man. 
+
+
+
+
+bonnettd@aldenv138:~/cs111F2014/cs111F2014-bonnettd/lab3$ java Lab3
+Dan Bonnett
+Lab 3
+Wed Sep 24 12:01:09 EDT 2014
+
+Enter your name: 
+Gregory Kapfhammer
+Welcome to the Tip Calculator, Gregory Kapfhammer.
+Please enter the amount of your bill
+155.68
+Please enter the percentage that you want to tip as a decimal between number between 0 and 1: 
+.18
+Your original bill was: $155.68
+Your tip amount is: $28.0224
+Your total bill is: $183.7024
+How many people will be splitting the bill?: 
+2
+Each person should pay: $91.8512
+Have a fantastic day! Thank you for using the tip calculator created by Dan the Man. 
+
+

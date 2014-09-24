@@ -24,7 +24,7 @@ public class Lab3
 	Scanner scan = new Scanner(System.in);
 	String name1;
 	String welcome; 
-	int bill;
+	double bill;
 	double percentage;
 	double tip;
 	double totalBill;
@@ -34,7 +34,7 @@ public class Lab3
 	System.out.println("Enter your name: ");
 	name1 = scan.nextLine();
 	System.out.println("Welcome to the Tip Calculator,"+" "+name1+"."+ "\n" + "Please enter the amount of your bill");
-	bill = scan.nextInt();
+	bill = scan.nextDouble();
 	System.out.println("Please enter the percentage that you want to tip as a decimal between number between 0 and 1: ");
 	percentage = scan.nextDouble();
 	tip = percentage * bill;
