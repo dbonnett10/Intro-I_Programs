@@ -12,12 +12,15 @@ public class Kinetic
         //System.out.println("F V: " + velocity);
         //System.out.println("F V squared: " + velocity_squared);
 
+
         if( mass != 0 ) {
             velocity_squared = (2*kinetic/mass);
             velocity = (int)Math.sqrt(velocity_squared);
             final_velocity.append(velocity);
         }
-
+/*
+ *
+ */
         else {
             final_velocity.append("Undefined");
         }
@@ -26,7 +29,9 @@ public class Kinetic
         //System.out.println("L V squared: " + velocity_squared);
 
         return final_velocity.toString();
-    }
+    /*
+     *}
+     */
 
     public static void main(String[] args) {
         System.out.println("Calling the computeVelocity method!");
