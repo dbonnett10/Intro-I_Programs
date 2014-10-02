@@ -1,0 +1,23 @@
+Responses to the questions in Practical Session 4:
+
+Question: Do you recognize the names of any of the gvim plugins as they are being installed?
+Answer: No I do not
+
+Question: What are five ways in which the new design of gvim is different from the old default configuration? 
+Answer: 1) The color scheme is different.
+        2) This version comes with numerous different plugins.
+        3) This version will check for syntax errors without making the user compile the source code.
+        4) This version keeps the user's text in-line.
+        5) Customization can be done much easier on this version.
+        6) Texting is different on this version. This version includes new keyboard shortcuts.
+
+Question: How does your chosen plugin work?
+Answer: The plug in I chose is called "syntastic. This plugin's purpose is to detect syntax errors. This plugin will detect syntax errors without requiring the user to compile his or her code.
+
+Qustion: Do you plan to use this plugin on a regular basis? Why or why not?
+Answer: I do plan to use this plugin on a regular basis because of its convenience. I will not have to constantly compile my source code to find out if there are errors within it.
+
+Question: What do you think the "gg=G" command does? 
+Answer: I think that the gg=G command will put the gvim cursor in a set location. I have my doubts that it actually does that I'm just taking a shot in the dark here.
+Question: How do these commands allow you to manipulate your Java program? 
+Answer: These commmands allow navigating through your Java program to be done quickly and easily.
