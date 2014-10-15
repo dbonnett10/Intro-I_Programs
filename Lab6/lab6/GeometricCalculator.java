@@ -1,3 +1,14 @@
+//*************************************
+//Honor Code: The work I am submitting is a result of my own thinking and efforts.
+//Dan Bonnett
+//CMPSC 111 Fall 2014
+//Lab #6
+//Date: October 9 2014
+//
+//Purpose: To find and fix the errors within a geometric calculator.
+//*************************************
+
+
 public class GeometricCalculator {
 
     public static double calculateSphereVolume(double radius) {

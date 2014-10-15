@@ -1,0 +1,36 @@
+bonnettd@aldenv138:~/cs111F2014/cs111F2014-bonnettd/Lab6/lab6$ java CommandLineGeometer
+Dan Bonnett Wed Oct 15 11:23:26 EDT 2014
+Welcome to the Command Line Geometer!
+
+What is the radius for the sphere?
+6
+
+Calculating the volume of a sphere with radius equal to 6.0
+The volume is equal to 678.584
+
+What is the length of the first side of the triangle?
+4
+What is the length of the second side?
+5
+What is the length of the third side?
+8
+
+The perimeter of the triangle is 17
+Calculating the area of a triangle
+The area is equal to 154.4927
+
+What is the radius for the cylinder?
+12
+
+What is the height for the cylinder?
+10
+
+Calculating the volume of a cylinder with radius equal to 12.0 and height equal to 10.0
+The volume is equal to 4523.8934
+
+What is the radius for the sphere?
+11
+
+Calculating the surface area of a sphere with radius equal to 11.0
+The surface area of the sphere is equal to 1520.5308
+
