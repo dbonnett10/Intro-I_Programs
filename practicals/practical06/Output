@@ -1,0 +1,25 @@
+bonnettd@aldenv127:~/cs111F2014/cs111F2014-bonnettd/practicals/practical06$ java Practical6Main 
+Please enter a year between 1000 and 3000!
+2047
+2047 is not a leap year
+2047 is a Cicada year
+2047 is not a Sunspot year
+Thank you for using this program.
+
+
+bonnettd@aldenv127:~/cs111F2014/cs111F2014-bonnettd/practicals/practical06$ java Practical6Main 
+Please enter a year between 1000 and 3000!
+1991
+1991 is not a leap year
+1991 is not a Cicada year
+1991 is a Sunspot year
+Thank you for using this program.
+
+
+Please enter a year between 1000 and 3000!
+2060
+2060 is a leap year
+2060 is not a Cicada year
+2060 is not a Sunspot year
+Thank you for using this program.
+
