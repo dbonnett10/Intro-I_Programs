@@ -1,0 +1,158 @@
+^Cbonnettd@aldenv103:~/cs111F2014/cs111F2014-bonnettd/lab8$ java SudokuCheckerMaWelcome to the Sudoku Checker
+Enter the values for row 1(Do not use spaces)
+3241
+Enter the values for row 2(Do not use spaces)
+4132
+Enter the values for row 3(Do not use spaces)
+1423
+Enter the values for row 4(Do not use spaces)
+2314
+Row 1 is good
+Row 2 is good
+Row 3 is good
+Row 4 is good
+
+Column 1 is good
+Column 2 is good
+Column 3 is good
+Column 4 is good
+
+Region 1 is good
+Region 2 is good
+Region 3 is good
+Region 4 is good
+
+The Sudoku Grid is Valid
+
+
+
+
+bonnettd@aldenv103:~/cs111F2014/cs111F2014-bonnettd/lab8$ java SudokuCheckerMainWelcome to the Sudoku Checker
+Enter the values for row 1(Do not use spaces)
+1234
+Enter the values for row 2(Do not use spaces)
+3412
+Enter the values for row 3(Do not use spaces)
+2143
+Enter the values for row 4(Do not use spaces)
+4321
+Row 1 is good
+Row 2 is good
+Row 3 is good
+Row 4 is good
+
+Column 1 is good
+Column 2 is good
+Column 3 is good
+Column 4 is good
+
+Region 1 is good
+Region 2 is good
+Region 3 is good
+Region 4 is good
+
+The Sudoku Grid is Valid
+
+
+
+
+bonnettd@aldenv103:~/cs111F2014/cs111F2014-bonnettd/lab8$ java SudokuCheckerMainWelcome to the Sudoku Checker
+Enter the values for row 1(Do not use spaces)
+1243
+Enter the values for row 2(Do not use spaces)
+2314
+Enter the values for row 3(Do not use spaces)
+3421   
+Enter the values for row 4(Do not use spaces)
+4132
+Row 1 is good
+Row 2 is good
+Row 3 is good
+Row 4 is good
+
+Column 1 is good
+Column 2 is good
+Column 3 is good
+Column 4 is good
+
+Region 1 is not good
+Region 2 is not good
+Region 3 is not good
+Region 4 is not good
+
+The Grid is Invalid
+
+
+
+
+bonnettd@aldenv103:~/cs111F2014/cs111F2014-bonnettd/lab8$ java SudokuCheckerMainWelcome to the Sudoku Checker
+Enter the values for row 1(Do not use spaces)
+2413
+Enter the values for row 2(Do not use spaces)
+1324
+Enter the values for row 3(Do not use spaces)
+4231
+Enter the values for row 4(Do not use spaces)
+3142
+Row 1 is good
+Row 2 is good
+Row 3 is good
+Row 4 is good
+
+Column 1 is good
+Column 2 is good
+Column 3 is good
+Column 4 is good
+
+Region 1 is good
+Region 2 is good
+Region 3 is good
+Region 4 is good
+
+The Sudoku Grid is Valid
+
+
+
+
+bonnettd@aldenv103:~/cs111F2014/cs111F2014-bonnettd/lab8$ java SudokuCheckerMainWelcome to the Sudoku Checker
+Enter the values for row 1(Do not use spaces)
+4231
+Enter the values for row 2(Do not use spaces)
+1224
+Enter the values for row 3(Do not use spaces)
+2314
+Enter the values for row 4(Do not use spaces)
+3432
+Row 1 is good
+Row 2 is not good
+Row 3 is good
+Row 4 is not good
+
+Column 1 is good
+Column 2 is not good
+Column 3 is not good
+Column 4 is not good
+
+Region 1 is not good
+Region 2 is not good
+Region 3 is good
+Region 4 is good
+
+The Grid is Invalid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
