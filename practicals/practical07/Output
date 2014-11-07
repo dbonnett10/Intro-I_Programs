@@ -1,0 +1,17 @@
+bonnettd@aldenv107:~/cs111F2014/cs111F2014-bonnettd/practicals/practical07$ java GuessingGameMain
+The actual value is: 64
+Welcome to my guessing game
+
+Enter a number between 1 and 100
+79
+Too high!!!!
+Enter a number between 1 and 100
+12
+Too low!!!!
+Enter a number between 1 and 100
+56
+Too low!!!!
+Enter a number between 1 and 100
+64
+You guessed correctly in 4 tries
+
