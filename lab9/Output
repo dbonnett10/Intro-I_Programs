@@ -1,0 +1,98 @@
+bonnettd@aldenv141:~/cs111F2014/cs111F2014-bonnettd/lab9$ java TodoListMain
+Welcome to the Todo List Manager!
+What operation would you like to perform?
+Available options: read, priority-search, category-search, done, list, quit
+read
+list
+0, A, Understand, Draw diagram(s) to explain classes, done? false
+1, A, Understand, Use the LJV to see TodoList, done? false
+2, B, Explain, Add comments to all of the Todo classes , done? false
+done
+What is the id of the task?
+2
+list
+0, A, Understand, Draw diagram(s) to explain classes, done? false
+1, A, Understand, Use the LJV to see TodoList, done? false
+2, B, Explain, Add comments to all of the Todo classes , done? true
+quit
+
+
+^Cbonnettd@aldenv141:~/cs111F2014/cs111F2014-bonnettd/lab9$ java TodoListMain
+Welcome to the Todo List Manager!
+What operation would you like to perform?
+Available options: read, priority-search, category-search, done, list, quit
+read
+list
+0, A, Understand, Draw diagram(s) to explain classes, done? false
+1, A, Understand, Use the LJV to see TodoList, done? false
+2, B, Explain, Add comments to all of the Todo classes , done? false
+priority-search
+What is the priority of the task?
+A
+0, A, Understand, Draw diagram(s) to explain classes, done? false
+1, A, Understand, Use the LJV to see TodoList, done? false
+quit
+
+
+bonnettd@aldenv141:~/cs111F2014/cs111F2014-bonnettd/lab9$ java TodoListMain
+Welcome to the Todo List Manager!
+What operation would you like to perform?
+Available options: read, priority-search, category-search, done, list, quit
+read
+list
+0, A, Understand, Draw diagram(s) to explain classes, done? false
+1, A, Understand, Use the LJV to see TodoList, done? false
+2, B, Explain, Add comments to all of the Todo classes , done? false
+category-search
+What is the category of the task?
+Understand
+0, A, Understand, Draw diagram(s) to explain classes, done? false
+1, A, Understand, Use the LJV to see TodoList, done? false
+done
+What is the id of the task?
+2
+list
+0, A, Understand, Draw diagram(s) to explain classes, done? false
+1, A, Understand, Use the LJV to see TodoList, done? false
+2, B, Explain, Add comments to all of the Todo classes , done? true
+quit
+
+
+bonnettd@aldenv141:~/cs111F2014/cs111F2014-bonnettd/lab9$ java TodoListMain
+Welcome to the Todo List Manager!
+What operation would you like to perform?
+Available options: read, priority-search, category-search, done, list, quit
+read
+list
+0, A, Understand, Draw diagram(s) to explain classes, done? false
+1, A, Understand, Use the LJV to see TodoList, done? false
+2, B, Explain, Add comments to all of the Todo classes , done? false
+priority-search
+What is the priority of the task?
+B
+2, B, Explain, Add comments to all of the Todo classes , done? false
+quit
+
+
+bonnettd@aldenv141:~/cs111F2014/cs111F2014-bonnettd/lab9$ java TodoListMain
+Welcome to the Todo List Manager!
+What operation would you like to perform?
+Available options: read, priority-search, category-search, done, list, quit
+read
+list
+0, A, Understand, Draw diagram(s) to explain classes, done? false
+1, A, Understand, Use the LJV to see TodoList, done? false
+2, B, Explain, Add comments to all of the Todo classes , done? false
+category-search
+What is the category of the task?
+Explain
+2, B, Explain, Add comments to all of the Todo classes , done? false
+priority-search
+What is the priority of the task?
+A
+0, A, Understand, Draw diagram(s) to explain classes, done? false
+1, A, Understand, Use the LJV to see TodoList, done? false
+quit
+
+
+
