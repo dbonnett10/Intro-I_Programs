@@ -1,0 +1,4 @@
+Lab 9 reflection:
+
+    I believe that lab 9 may be the most difficult lab assignment yet. I faced many challenges with Iterators that required some heavy thinking to overcome.
+    I often found myself resorting to the text book, and a couple different online resources for help. I was able to gain a better understanding of iterators through these resources, but still had trouble making the program run correctly. I consulted with several of my classmates who were having similar struggles, hoping that we could pull together to figure out our problems. Ultimately, with the assistance of all of my available resources, I was able to complete the assignment on time. 
