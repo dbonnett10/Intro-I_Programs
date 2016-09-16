@@ -2,7 +2,7 @@
 //*************************************
 // Honor Code: The work I am submitting is a result of my own thinking and efforts.
 // Dan Bonnett
-//CMPSC 111 Fall 2014
+// CMPSC 111 Fall 2014
 // Lab #3
 // Date: 09 18 2014
 //
